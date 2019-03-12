@@ -1,16 +1,15 @@
-# dress_ui
+# Fashion_Store
 
-A new Flutter project.
+A couple of screens for a shopping app.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5544567-Mobile-Shopping/attachments/1199413
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/BCvfWsNMXBQ
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+![Screenshot_20190312-212641](https://user-images.githubusercontent.com/8137504/54216088-07d90580-450f-11e9-89fa-a6b3e04a2157.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20190312-212704](https://user-images.githubusercontent.com/8137504/54216089-07d90580-450f-11e9-936c-cc5fca15cab9.png)
+
+![Screenshot_20190312-212732](https://user-images.githubusercontent.com/8137504/54216090-07d90580-450f-11e9-895c-8cfb9b11a788.png)
